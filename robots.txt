@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoonaath.andreamaglie.com/sitemap.xml
